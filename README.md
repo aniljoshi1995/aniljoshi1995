@@ -1,6 +1,6 @@
 **👋 Welcome to my GitHub profile!**
 
-With over 8+ years of expertise in Zendesk, Freshdesk, Shopify, .NET development, SQL and API integration, I bring a diverse skill set and a track record of delivering high-quality solutions. My experience spans API integration, migration, custom development, and more across various CRM platforms and programming languages.
+With over 8+ years of experience as a Zendesk expert, Freshdesk expert, and Shopify expert, coupled with 8+ years of .NET expertise, I bring a comprehensive skill set to the table. My proficiency extends to various CRM platforms including Zendesk, Freshdesk, Sellercloud, Salesforce, Zoho, Hubspot, Freshworks, and SAPByd. I specialize in API integration, migration, and custom development for Zendesk, Freshdesk, Zoho, Freshworks, and more. Additionally, I have developed numerous custom apps for Zendesk and Freshdesk, enhancing their functionalities according to client needs. My expertise also includes API creation, custom form development, and a wide range of programming languages such as ASP .NET, Python, Node JS, React, Google Script, JavaScript, JSON, HTML, and CSS.
 
 
 **Technical Skills:**
