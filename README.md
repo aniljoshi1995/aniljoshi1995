@@ -2,6 +2,7 @@
 
 With over 8+ years of expertise in Zendesk, Freshdesk, Shopify, .NET development, SQL and API integration, I bring a diverse skill set and a track record of delivering high-quality solutions. My experience spans API integration, migration, custom development, and more across various CRM platforms and programming languages.
 
+
 **Technical Skills:**
 
 ⭐ Python, JavaScript, Node.js, React
@@ -23,6 +24,7 @@ With over 8+ years of expertise in Zendesk, Freshdesk, Shopify, .NET development
 ⭐ Zendesk development
 
 ⭐ Salesforce API integration
+
 
 **Key Expertise:**
 
@@ -50,6 +52,7 @@ With over 8+ years of expertise in Zendesk, Freshdesk, Shopify, .NET development
 
 ✅ Data Migration for various CRMs (Zendesk, Freshdesk, Salesforce, Sellercloud, etc..)
 
+
 **Highlights:**
 
 🌟 Expert in Zendesk & Freshdesk customization.
@@ -57,6 +60,7 @@ With over 8+ years of expertise in Zendesk, Freshdesk, Shopify, .NET development
 🌟 Successful API integration & migration projects.
 
 🌟 Proven track record of delivering high-quality solutions.
+
 
 **Key Achievements:**
 
@@ -67,5 +71,6 @@ With over 8+ years of expertise in Zendesk, Freshdesk, Shopify, .NET development
 ✅ Website creation & theme design for branding impact.
 
 ✅ Automation scripting for streamlined workflows.
+
 
 Let's collaborate to turn your ideas into reality!
